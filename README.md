@@ -1,5 +1,5 @@
 # ObjectDetection
-In this project we are going to detect/ identify objects through live stream by using YOLO function.
+In this project we are going to detect/ identify objects by using YOLO function.
 
 ## Step.1 Open Code file and Run
 
